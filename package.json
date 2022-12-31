@@ -1,0 +1,22 @@
+{
+  "name": "whitewolf",
+  "displayName": "whiteWolf",
+  "description": "a color theme pure blackk",
+  "version": "0.3.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "icon": "deltaAir.jpg",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/white-wolf.json"
+      }
+    ]
+  }
+}
